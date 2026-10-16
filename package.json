@@ -1,0 +1,23 @@
+{
+  "name": "pdf-editor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index-cv.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index-cv.ts",
+    "dev": "tsc --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pdfkit": "^0.15.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "@types/pdfkit": "^0.13.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}

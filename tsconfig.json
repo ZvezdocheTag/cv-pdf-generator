@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+      "target": "ES6",                          // Specifies the output JavaScript version (e.g., ES6, ES2017)
+      "module": "commonjs",                     // Specifies the module code generation (e.g., commonjs, ESNext)
+      "strict": true,                           // Enables all strict type-checking options
+      "esModuleInterop": true,                  // Enables emit interoperability for ES6 modules
+      "skipLibCheck": true,                     // Skips type checking of all declaration files (*.d.ts)
+      "forceConsistentCasingInFileNames": true, // Disallows inconsistently-cased references to the same file
+      "outDir": "./dist"                        // Output directory for the compiled JavaScript files
+    },
+    "include": ["src/**/*.ts"],                // Specifies the files to include in the project
+    "exclude": ["node_modules", "**/*.test.ts"] // Specifies the files to exclude from the project
+  }
+  

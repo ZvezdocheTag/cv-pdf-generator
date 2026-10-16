@@ -1,0 +1,176 @@
+{
+    "name": "john-doe",
+    "infoData": {
+        "fullName": "John Doe",
+        "positionLocation": "New York, NY, USA",
+        "candidateLocation": "San Francisco, CA, USA",
+        "email": "john.doe@example.com",
+        "links": {
+            "linkedin": "https://linkedin.com/in/john-doe",
+            "github": "https://github.com/johndoe"
+        },
+        "phone": "+1234567890",
+        "hidePhone": false,
+        "education": [
+            {
+                "logo": null,
+                "institution": "University of California, Berkeley",
+                "location": "Berkeley, CA, USA",
+                "degree": [
+                    {
+                        "startDate": "2016-09-01",
+                        "endDate": "2020-05-31",
+                        "degree": "Bachelor of Science in Computer Science"
+                    },
+                    {
+                        "startDate": "2020-09-01",
+                        "endDate": "2022-05-31",
+                        "degree": "Master of Science in Software Engineering"
+                    }
+                ]
+            }
+        ]
+    },
+    "techStackHighlights": [
+        "JavaScript/TypeScript/Python",
+        "React/Vue/Angular",
+        "Node.js/Express",
+        "AWS (EC2, S3, Lambda, RDS)",
+        "Docker/Kubernetes",
+        "PostgreSQL/MongoDB",
+        "GraphQL/REST APIs",
+        "Jest/Cypress/Testing",
+        "Git/CI/CD"
+    ],
+    "experience": [
+        {
+            "company": "Tech Startup Inc.",
+            "logo": "./assets/example-logo.png",
+            "companyLocation": "San Francisco, CA, USA",
+            "companyUrl": null,
+            "candidateLocation": "San Francisco, CA, USA",
+            "totalDuration": "2 yrs 3 mos",
+            "positions": [
+                {
+                    "position": "Senior Software Engineer",
+                    "startDate": "2022-01-01",
+                    "endDate": null,
+                    "duration": "2 yrs 3 mos",
+                    "candidateLocation": "San Francisco, CA",
+                    "descriptionType": "bullets",
+                    "description": [
+                        "Led development of microservices architecture using Node.js and Docker, improving system scalability by 40%",
+                        "Implemented CI/CD pipelines with automated testing, reducing deployment time from 2 hours to 15 minutes"
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "Global Software Solutions",
+            "logo": null,
+            "companyLocation": "Austin, TX, USA",
+            "companyUrl": null,
+            "candidateLocation": "Remote",
+            "totalDuration": "3 yrs 2 mos",
+            "positions": [
+                {
+                    "position": "Full Stack Developer",
+                    "startDate": "2021-01-01",
+                    "endDate": "2021-12-31",
+                    "duration": "1 yr",
+                    "candidateLocation": "Remote",
+                    "descriptionType": "bullets",
+                    "description": [
+                        "Built responsive web applications using React and Redux, serving 50,000+ daily active users",
+                        "Optimized database queries and implemented caching strategies, reducing API response time by 60%"
+                    ]
+                },
+                {
+                    "position": "Junior Developer",
+                    "startDate": "2018-11-01",
+                    "endDate": "2020-12-31",
+                    "duration": "2 yrs 2 mos",
+                    "candidateLocation": "Austin, TX",
+                    "descriptionType": "bullets",
+                    "description": [
+                        "Developed RESTful APIs using Express.js and PostgreSQL for e-commerce platform",
+                        "Collaborated with cross-functional teams to deliver features on time and within budget"
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "Digital Agency Co.",
+            "logo": null,
+            "companyLocation": "New York, NY, USA",
+            "companyUrl": null,
+            "candidateLocation": "New York, NY",
+            "totalDuration": "1 yr 6 mos",
+            "positions": [
+                {
+                    "position": "Frontend Developer",
+                    "startDate": "2017-05-01",
+                    "endDate": "2018-10-31",
+                    "duration": "1 yr 6 mos",
+                    "candidateLocation": "New York, NY",
+                    "descriptionType": "bullets",
+                    "description": [
+                        "Created interactive user interfaces using HTML5, CSS3, and JavaScript for client websites",
+                        "Worked closely with designers to implement pixel-perfect designs and ensure cross-browser compatibility"
+                    ]
+                }
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "title": "AWS Certified Solutions Architect",
+            "date": "2023-03-15",
+            "issuer": "Amazon Web Services (AWS)",
+            "logo": null
+        },
+        {
+            "title": "React Developer Certification",
+            "date": "2022-08-20",
+            "issuer": "Meta (Facebook)",
+            "logo": null
+        }
+    ],
+    "techStackFull": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Vue.js",
+        "Angular",
+        "Node.js",
+        "Express",
+        "Python",
+        "Django",
+        "PostgreSQL",
+        "MongoDB",
+        "Redis",
+        "AWS EC2",
+        "AWS S3",
+        "AWS Lambda",
+        "AWS RDS",
+        "Docker",
+        "Kubernetes",
+        "GraphQL",
+        "REST APIs",
+        "Jest",
+        "Cypress",
+        "Git",
+        "CI/CD",
+        "Webpack",
+        "Sass",
+        "Bootstrap",
+        "Tailwind CSS"
+    ],
+    "targetPosition": {
+        "title": "Senior Full Stack Developer",
+        "location": "San Francisco, CA, USA",
+        "description": "Seeking a challenging role as a Senior Full Stack Developer where I can leverage my expertise in modern web technologies to build scalable applications and lead development teams."
+    }
+}

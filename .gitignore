@@ -1,0 +1,10 @@
+node_modules
+.env
+input.cv.json
+
+# logos: keep your own outside the repo (CV_ASSETS_DIR) or here, uncommitted
+assets/*
+!assets/example-logo.png
+
+.DS_Store
+.claude/
